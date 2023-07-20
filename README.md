@@ -1,1 +1,1 @@
-# calculator isa model based on html css js
+# calculator is a model based on html css and js
